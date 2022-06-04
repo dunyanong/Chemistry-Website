@@ -3,4 +3,4 @@
 <p align="center">Learning objective: To learn Boostrap and the common components</p>
 <p align="center"> Build with Boostrap CSS framework</p>
 <p>Web-App Link 👇 </p> 
-<a href="https://webquotegenerator.vercel.app/">Chemistry Website</a>
+<a href="https://chemistrywebsite.vercel.app/">Chemistry Website</a>
